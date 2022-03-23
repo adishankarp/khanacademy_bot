@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Khan Academy Bot
 // @version      1.4
-// @description  ur welcome cheater
-// @author       Alex Dubov (github@adubov1)
+// @description  ur welcome bitch
+// @author       adi the smartie
 // @match        https://www.khanacademy.org/*
 // @grant        none
 // ==/UserScript==
@@ -113,8 +113,8 @@
 
             if (!window.loaded) {
                 console.clear();
-                console.log("%c Answer Revealer ", "color: mediumvioletred; -webkit-text-stroke: .5px black; font-size:40px; font-weight:bolder; padding: .2rem;");
-                console.log("%cCreated by Alex Dubov (@adubov1)", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
+                console.log("%c ur welcome cheater ass bitch ", "color: mediumvioletred; -webkit-text-stroke: .5px black; font-size:40px; font-weight:bolder; padding: .2rem;");
+                console.log("%c adi the smartie did this shit", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
                 window.loaded = true;
             }
 
